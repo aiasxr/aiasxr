@@ -38,9 +38,20 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+  #<img src="">
+  #<img src="">
+  #<img src=""> 
+</p>
+
+<h3>Languages:</h3>
+<p>
   <img src="">
   <img src="">
   <img src="">
-    
+  <img src="">
+  <img src="">
+  <img src="">
+  <img src="">
+  <img src=""> 
 </p>
   

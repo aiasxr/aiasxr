@@ -15,17 +15,32 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mhassanakbar/">
-   <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>
-    </a><span>&nbsp;</span>
+    <img src="https://img.shields.io/badge/M. Hassan Akbar-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" >
+  </a>
   <a href="https://twitter.com/aiasrx">
-    <img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>
+    <img src="https://img.shields.io/badge/aiasrx-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a><span>&nbsp;</span>
   <a href="mailto:mhassanakbaar@gmail.com">
-    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+    <img src="https://img.shields.io/badge/mhassanakbaar@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" >
   </a><span>&nbsp;</span>
-  <a href="https://github.com/aiasxr">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png" width="3.5%"/>
-  </a><span>&nbsp;</span>
+  <a  href="https://medium.com/@mhassanakbaar">
+    <img src="https://img.shields.io/badge/@mhassanakbaar-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white">
+  </a>
 </p>
 
 <h3 align="center">A Junior Computer Science Undergrad at FAST NUCES who is currently learning DevOps</h3>
+
+
+<h3>Languages:</h3>
+<p>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+  <img src="">
+  <img src="">
+  <img src="">
+    
+</p>
+  

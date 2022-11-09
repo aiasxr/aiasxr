@@ -15,7 +15,13 @@
   </a>
 </p>
 
-<h3 align="center">I am a Computer Science Undergrad at FAST NUCES!</h3>
+<h3>I am a Computer Science Undergrad at FAST NUCES!</h3>
+<h3>My areas of interest are:</h3>
+
+- DevOps
+- Web Development
+- Machine Learning
+
 
 
 <h3>Languages:</h3>

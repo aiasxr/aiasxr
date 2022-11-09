@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/mhassanakbar/">
     <img src="https://img.shields.io/badge/M. Hassan Akbar-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" >
   </a>
-  <a href="https://twitter.com/aiasrx">
+  <a href="https://twitter.com/aiasxr">
     <img src="https://img.shields.io/badge/aiasrx-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a><span>&nbsp;</span>
   <a href="mailto:mhassanakbaar@gmail.com">

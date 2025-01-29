@@ -17,6 +17,7 @@
 
 <h3>I am a Software Engineer currently working at Arkhitech!</h3>
 <h3>My areas of interest are:</h3>
+
 - Machine Learning
 - Web Development
 - DevOps
